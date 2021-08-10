@@ -19,8 +19,6 @@
   <a href="">Other apk Games</a>
   <a href="#about">About</a>
   <a href="#contact">Social Medias</a>
-  <input type="text" placeholder="Search..">
-      </div>
 
 <h2> Welcome on The Android-Game World</h2>
 
