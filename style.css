@@ -31,6 +31,7 @@
 .topnav input[type=text] {
   float: right;
   padding: 6px;
+  padding-right: 20px;
   border: none;
   margin-top: 8px;
   margin-right: 16px;
@@ -53,8 +54,8 @@
 }
 
 h2{
-  padding-top: 120px;
-  padding-left: 500px;
+  padding-top: 50px;
+  float:center;
 }
 
 .stbody{
@@ -167,4 +168,9 @@ p
 .bestimgbro
 {
   padding-left: 70px;
+}
+
+.homediv
+{
+  padding-top: 50px;
 }
