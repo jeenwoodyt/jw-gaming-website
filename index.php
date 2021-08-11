@@ -38,6 +38,12 @@
   <h3><b>Last Games Shared</b></h3>
 
        <section>
+            <h3 ><a href="dls22cr7messi.html">Dream League Soccer 2022 Android Offline+online GOATS Edition</a></h3>
+            <a href="dls22cr7messi.html"><img class="bestimgbro" src="img/dls22cr7messicover.png" alt="" width="400px"></a>
+        </section>
+ 
+
+       <section>
             <h5 ><a href="dls22aguerombappe.html">Dream League Soccer 2022 Android Offline+online Aguero & Mbappe Edition</a></h5>
             <a href="dls22aguerombappe.html"><img class="bestimgbro" src="img/dls22aguerombappecover.png" alt="" width="200px"></a>
         </section>
