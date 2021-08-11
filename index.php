@@ -39,7 +39,7 @@
 
        <section>
             <h3 ><a href="dls22cr7messi.html">Dream League Soccer 2022 Android Offline+online GOATS Edition</a></h3>
-            <a href="dls22cr7messi.html"><img class="bestimgbro" src="img/dls22cr7messicover.png" alt="" width="400px"></a>
+            <a href="dls22cr7messi.html"><img class="bestimgbro" src="img/dls22cr7messicover.png" alt="" width="300px"></a>
         </section>
  
 
