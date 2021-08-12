@@ -22,7 +22,7 @@
        <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="">FIFA 22 PPSSPP</a>
-  <a href="pes22psp.html">PES 22 PPSSPP</a>
+  <a href="pes22psp.html">PES 21/22 PPSSPP</a>
   <a href="dls22.html">DLS 22</a>
   <a href="">GTA</a>
   <a href="">Other apk Games</a>
