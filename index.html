@@ -7,6 +7,15 @@
 	<title> JW GAMING</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css" />
+    <script type="text/javascript">
+    var adfly_id = 22944681;
+    var adfly_advert = 'int';
+    var frequency_cap = 5;
+    var frequency_delay = 5;
+    var init_delay = 3;
+    var popunder = true;
+</script>
+<script src="https://cdn.adf.ly/js/entry.js"></script>
 </head>
 
 <body class="stbody">
