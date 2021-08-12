@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="style.css" />
     <script type="text/javascript">
     var adfly_id = 22944681;
-    var adfly_advert = 'int';
+    var adfly_advert = 'banner';
     var frequency_cap = 5;
     var frequency_delay = 5;
     var init_delay = 3;
