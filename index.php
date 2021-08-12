@@ -85,6 +85,11 @@
 <!-- Start of adf.ly banner code -->
 <div style="width: 728px; text-align: center; font-family: verdana; font-size: 10px;"><a href="https://join-adf.ly/22944681"><img border="0" src="gif/adfly2.gif" width="468" height="60" title="AdF.ly - raccourcir les liens et gagner de l&#39;argent! " /></a><br /><a href="https://join-adf.ly/22944681">Soyez payé pour partager vos liens! </a></div>
 <!-- End of adf.ly banner code -->
-s
+
+<?php
+// This is a single-line comment
+
+# This is also a single-line comment
+?>
 </body>
 </html>
