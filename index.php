@@ -48,18 +48,18 @@
 
        <section>
             <h3 ><a href="dls22cr7messi.html">Dream League Soccer 2022 Android Offline+online GOATS Edition</a></h3>
-            <a href="dls22cr7messi.html"><img class="bestimgbro" src="img/dls22cr7messicover.png" alt="" width="300px"></a>
+            <a href="dls22cr7messi.html"><img class="bestimgbro" src="img/dls22cr7messicover.jpg" alt="" width="300px"></a>
         </section>
  
 
        <section>
             <h5 ><a href="dls22aguerombappe.html">Dream League Soccer 2022 Android Offline+online Aguero & Mbappe Edition</a></h5>
-            <a href="dls22aguerombappe.html"><img class="bestimgbro" src="img/dls22aguerombappecover.png" alt="" width="300px"></a>
+            <a href="dls22aguerombappe.html"><img class="bestimgbro" src="img/dls22aguerombappecover.jpg" alt="" width="300px"></a>
         </section>
 
         <section>
             <h5> <a href="dls22messicr7.html">Dream League Soccer 2022 Android Offline+online Cr7 & PSG Stars Edition </a> </h5>
-            <a href="dls22messicr7.html"><img class="bestimgbro" src="img/dls22messineybappecr7gt360.png" alt="" width="300px" ></a>
+            <a href="dls22messicr7.html"><img class="bestimgbro" src="img/dls22messineybappecr7gt360.jpg" alt="" width="300px" ></a>
         </section> 
 
         <section>
@@ -69,7 +69,7 @@
 
         <section>
             <h5><a href="dls22suarez.html">Dream League Soccer 2022 Andoid Offline 350 MB Suarez Edition</a></h5>
-            <a href="dls22suarez.html"><img class="bestimgbro" src="img/dls22suarez.png" alt="" width="300px"></a>
+            <a href="dls22suarez.html"><img class="bestimgbro" src="img/dls22suarez.jpg" alt="" width="300px"></a>
         </section>
 
 </div>
