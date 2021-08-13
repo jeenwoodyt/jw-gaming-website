@@ -91,5 +91,7 @@
 
 # This is also a single-line comment
 ?>
+
+<script type="text/javascript">var subscribersSiteId='84bb9ce7-f3f2-4521-bbdf-4379f7ec5b88';</script><script type="text/javascript" src="https://cdn.subscribers.com/assets/subscribers.js"></script>
 </body>
 </html>
