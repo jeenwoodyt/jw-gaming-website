@@ -48,7 +48,7 @@
 
        <section>
             <h3><a href="pes21psp200mb.html">PES 2021 PPSSPP English Version 200MB</a></h3>
-            <a href="pes21psp200mb.html"><img src="img/pes21psp200mb/home.jpg" alt="" width="400px"></a>
+            <a href="pes21psp200mb.html"><img src="img/pes21psp200mb/home.jpg" alt="" width="200px"></a>
         </section>
 
        <section>
