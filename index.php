@@ -48,8 +48,8 @@
 
        <section>
             <h3><a href="pes21psp200mb.html">PES 2021 PPSSPP English Version 200MB</a></h3>
-            <a href="pes21psp200mb.html"><img src="img/pes21psp200mb/home.jpg" alt="" width="200px"></a>
-        </section>
+            <a href="pes21psp200mb.html"><img src="img/pes21psp200mb/home.jpg" alt="" width="300px"></a>
+        </section>s
 
        <section>
             <h3 ><a href="dls22cr7messi.html">Dream League Soccer 2022 Android Offline+online GOATS Edition</a></h3>
