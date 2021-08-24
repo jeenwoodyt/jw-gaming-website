@@ -48,35 +48,35 @@
 
        <section>
             <h3><a href="pes21psp200mb.html">PES 2021 PPSSPP English Version 200MB</a></h3>
-            <a href="pes21psp200mb.html"><img src="img/pes21psp200mb/home.jpg" alt="" width="300px"></a>
+            <a href="pes21psp200mb.html"><img src="img/pes21psp200mb/home.jpg" alt="pes21psp200mb" width="300px"></a>
         </section>
 
-       <section>
+      <section>
             <h3 ><a href="dls22cr7messi.html">Dream League Soccer 2022 Android Offline+online GOATS Edition</a></h3>
-            <a href="dls22cr7messi.html"><img class="bestimgbro" src="img/dls22cr7messicover.jpg" alt="" width="300px"></a>
-        </section>
- 
+            <a href="dls22cr7messi.html"><img class="bestimgbro" src="img/dls22cr7messicover.jpg" alt="cover dls 22 GOATS" width="400px"></a>
+       </section>
 
-       <section>
-            <h5 ><a href="dls22aguerombappe.html">Dream League Soccer 2022 Android Offline+online Aguero & Mbappe Edition</a></h5>
-            <a href="dls22aguerombappe.html"><img class="bestimgbro" src="img/dls22aguerombappecover.jpg" alt="" width="300px"></a>
+        <section>
+            <h3 ><a href="dls22aguerombappe.html">Dream League Soccer 2022 Android Offline+online Aguero & Mbappe Edition</a></h3>
+            <a href="dls22aguerombappe.html"><img class="bestimgbro" src="img/dls22aguerombappecover.jpg" alt="cover dls 22 aguero & mbappe" width="400px"></a>
         </section>
 
         <section>
-            <h5> <a href="dls22messicr7.html">Dream League Soccer 2022 Android Offline+online Cr7 & PSG Stars Edition </a> </h5>
-            <a href="dls22messicr7.html"><img class="bestimgbro" src="img/dls22messineybappecr7gt360.jpg" alt="" width="300px" ></a>
+            <h3> <a href="dls22messicr7.html">Dream League Soccer 2022 Android Offline+online Cr7 & PSG Stars Edition </a> </h3>
+            <a href="dls22messicr7.html"><img class="bestimgbro" src="img/dls22messineybappecr7gt360.jpg" alt="cover dls 22 messicr7" width="400px" ></a>
         </section> 
 
         <section>
-            <h5> <a href="dls22neymarcr7.html"> Dream League Soccer 2022 Android Offline+online 350MB Neymar & cr7 Edition</a></h5>
-            <a href="dls22neymarcr7.html"><img class="bestimgbro" src="img/dls22neycr7.jpg" alt="" width="300px"> </a>
+            <h3> <a href="dls22neymarcr7.html"> Dream League Soccer 2022 Android Offline+online 350MB Neymar & cr7 Edition</a></h3>
+            <a href="dls22neymarcr7.html"><img class="bestimgbro" src="img/dls22neycr7.jpg" alt="cover dls 22 neymar & cr7" width="400px"> </a>
         </section>
 
         <section>
-            <h5><a href="dls22suarez.html">Dream League Soccer 2022 Andoid Offline 350 MB Suarez Edition</a></h5>
-            <a href="dls22suarez.html"><img class="bestimgbro" src="img/dls22suarez.jpg" alt="" width="300px"></a>
+            <h3><a href="dls22suarez.html">Dream League Soccer 2022 Andoid Offline 350 MB Suarez Edition</a></h3>
+            <a href="dls22suarez.html"><img class="bestimgbro" src="img/dls22suarez.jpg" alt="cover dls 22 suarez" width="400px"></a>
         </section>
 
+    
 </div>
         
         <!-- Start of banner code -->
