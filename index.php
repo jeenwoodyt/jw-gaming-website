@@ -47,6 +47,27 @@
   <h3><b>Last Games Shared</b></h3>
 
         <section>
+            <h3><a href="pes22pspvinibappe.html">PES 2022 PPSSPP All languages Version 1GB</a></h3>
+            <a href="pes22pspvinibappe.html"><img src="img/pes22pspvinibappe/home.png" alt="pes22psp1gb" width="400px"></a>
+        </section>
+
+        <section>
+            <h3><a href="pes22pspcoutinhoferrantrippier.html">PES 2022 PPSSPP All languages Version 1GB</a></h3>
+            <a href="pes22pspcoutinhoferrantrippier.html"><img src="img/pes22pspcoutinhoferrantrippier/home.png" alt="pes22psp1gb" width="400px"></a>
+        </section>
+
+       <section>
+            <h3><a href="pes22pspmessicr7salah.html">PES 2022 PPSSPP chelito 19 1GB</a></h3>
+            <a href="pes22pspmessicr7salah.html"><img src="img/pes22pspmessicr7salah/home.png" alt="pes22psp1gb" width="400px"></a>
+        </section>
+
+
+        <section>
+            <h3><a href="pes22pspmessipsg.html">PES 2022 PPSSPP English Version 1GB</a></h3>
+            <a href="pes22pspmessipsg.html"><img src="img/pes22pspmessipsg/home.png" alt="pes22psp1gb" width="400px"></a>
+        </section>
+
+        <section>
             <h3><a href="pes22psphakimi.html">PES 2022 PPSSPP Android Offline 800 MB</a></h3>
             <a href="pes22psphakimi.html"><img src="img/pes22psphakimicover.jpg" alt="pes22psp800mb" width="400px"></a>
         </section>
