@@ -21,15 +21,16 @@
 <body class="stbody">
        <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="">FIFA 22 PPSSPP</a>
-  <a href="pes22psp.html">PES 21/22 PPSSPP</a>
-  <a href="dls22.html">DLS 22</a>
-  <a href="">GTA</a>
+  <a href="">FIFA PPSSPP</a>
+  <a href="fifagames.html">FIFA Games</a>
+  <a href="pes22psp.html">PES PPSSPP</a>
+  <a href="dls22.html">DLS</a>
+  <a href="gta.html">GTA</a>
   <a href="">Other apk Games</a>
   <a href="#about">About</a>
   <a href="#contact">Social Medias</a>
       </div>
-
+      
 <h2> Welcome on The Android-Game World</h2>
 
   <p>Welcome to Jw Gaming , Here we propose High quality Android Games To Download , Most of our games are compatible with weak perfomance phone but, you will surely get a best expierence with a best Phone.</p>
@@ -45,6 +46,17 @@
 
 <div class="homediv">
   <h3><b>Last Games Shared</b></h3>
+
+        <section>
+            <h3><a href="fifa17modfifa22.html">FIFA 17 MOD FIFA 22 Android Offline & online 1GB</a></h3>
+            <a href="fifa17modfifa22.html"><img src="img/fifa17modfifa22.jpg" alt="fifa17modfifa22" width="400px"></a>
+        </section>
+
+
+         <section>
+            <h3><a href="dls22hack2.html">DLS 22 HACK UNLIMITED MONEY AND GEMS (New Mod)</a></h3>
+            <a href="dls22hack1.html"><img src="img/dls22hack1.jpg" alt=" dls 22 first menu" height="220vh"></a>
+        </section>
 
         <section>
             <h3><a href="dls22hack1.html">DLS 22 HACK UNLIMITED MONEY AND GEMS</a></h3>
