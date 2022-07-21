@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
+    <meta charset="utf-8">
   <meta name="description" content="Download High Quality Android Games">
   <meta name="keywords" content="dls22, pes 22, fifa 22, ppsspp">
-	<title> JW GAMING</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> JW GAMING</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css" />
     <script type="text/javascript">
     var adfly_id = 22944681;
@@ -30,7 +30,7 @@
   <a href="#about">About</a>
   <a href="#contact">Social Medias</a>
       </div>
-      
+
 <h2> Welcome on The Android-Game World</h2>
 
   <p>Welcome to Jw Gaming , Here we propose High quality Android Games To Download , Most of our games are compatible with weak perfomance phone but, you will surely get a best expierence with a best Phone.</p>
@@ -46,16 +46,15 @@
 
 <div class="homediv">
   <h3><b>Last Games Shared</b></h3>
-
+        
         <section>
             <h3><a href="fifa17modfifa22.html">FIFA 17 MOD FIFA 22 Android Offline & online 1GB</a></h3>
             <a href="fifa17modfifa22.html"><img src="img/fifa17modfifa22.jpg" alt="fifa17modfifa22" width="400px"></a>
         </section>
 
-
-         <section>
+        <section>
             <h3><a href="dls22hack2.html">DLS 22 HACK UNLIMITED MONEY AND GEMS (New Mod)</a></h3>
-            <a href="dls22hack1.html"><img src="img/dls22hack1.jpg" alt=" dls 22 first menu" height="220vh"></a>
+            <a href="dls22hack2.html"><img src="img/dls22hack2.jpg" alt=" dls 22 first menu" height="220vh"></a>
         </section>
 
         <section>
