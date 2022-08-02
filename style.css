@@ -76,41 +76,26 @@ p{
 
 }
 
-.pes22pspbody
-{
 
-  background-color: darkslateblue;
-  color: white;
-
-}
 
 .pes22psph1
 {
   font-family: Arial;
   float: left; 
   padding-top: 0px;
-  padding-bottom: 900px;
   color: whitesmoke; 
 }
 
-.pes22pspallgames
+.pespspallgames
 {
   float: center;
   padding-top: 50px;
-  padding-right: 20px;
 }
+
 
 .s2
 {
   padding-top: 20px;
-}
-
-.dls22allgames
-{
-  float: center;
-  padding-top: 50px;
-  padding-right: 20px;
-
 }
 
 .dls22h1
@@ -118,17 +103,10 @@ p{
   font-family: Arial;
   float: left; 
   padding-top: 0px;
-  padding-bottom: 900px;
   color: whitesmoke; 
 }
 
-.dls22body
-{
-
-  background-color: darkslateblue;
-  color: white;
-
-}  
+  
 
 a{
   text-decoration: none;
@@ -140,12 +118,7 @@ section
   font-family: Helvetica;
 }
 
-.dls22messicr7body
-{
-  background-color: midnightblue;
-  color: white;
-  font-family: Helvetica;
-}
+
 
 p
 {
@@ -169,51 +142,77 @@ p
   padding-top: 50px;
 }
 
-.pes21psp200mbbody
+.fifagamesbody
 {
-  background-color: #003380;
+  background-color: #3b0707;
   color: white;
+  font-family: serif; 
 }
 
-
-.pes22psp300mbbody
+.pesppssppbody
 {
-  background-color: #003380;
-  color: white;
+  background-color: rgba(27, 0, 126, 0.979) ;
+  color: whitesmoke;
   font-family: sans-serif;
 }
 
-.dls22hack2body
+.dlsbody
 {
-  background-color:darkgreen;
-  color: white;
-  font-family: inherit;
+ background-color: #073f00;
+ color: rgb(255, 255, 255);
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.dls22hack1body
+.ff 
 {
-  background-color:darkgreen;
-  color: white;
-  font-family: inherit;
+  position:relative;
 }
 
-.fifa17modfifa22body
+.dls22h1
 {
-  background-color:#282d3c;
-  color: white;
-  font-family: serif;
+  font-family: Arial;
+  float: left; 
+  padding-top: 0px;
+  color: whitesmoke; 
 }
 
-.dls22hack2body
+
+.dls22allgames
 {
-  background-color:darkgreen;
-  color: white;
-  font-family: inherit;
+  float: center;
+  padding-top: 50px;
 }
 
-.fifagamesbody
+.dlsbody
 {
-  background-color: #282d3c;
-  color: white;
-  font-family: serif; 
+ background-color: #073f00;
+ color: rgb(255, 255, 255);
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.gtaallgames
+{
+  float: center;
+  padding-top: 50px; 
+}
+
+.gtah1
+{
+  font-family: Arial;
+  float: left; 
+  padding-top: 0px;
+  color: whitesmoke; 
+}
+
+.gtabody
+{
+ background-color: #053a37;
+ color: rgb(255, 255, 255);
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ad 
+{
+  padding-bottom: 0%;
 }
